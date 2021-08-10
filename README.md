@@ -5,7 +5,7 @@
 
 ### ❓  | Sobre mi 
 
-Hola! 👋  Me llamo Débora. Soy Desarrolladora FrontEnd en formación,  me encuentro en constante proceso de aprendizaje y aquí vas a encontrar los proyectos que me encuentro desarrollando.
+Hola! 👋  Me llamo Débora. Soy Desarrolladora FrontEnd,  me encuentro en constante proceso de aprendizaje y aquí vas a encontrar los proyectos que me encuentro desarrollando.
 
 ❗ También soy Licenciada en Psicopedagogía; tengo experiencia laboral trabajando en el área de salud y de educación, y es por ello que me apasiona mejorar los procesos de aprendizaje (siendo la tecnología de gran importancia para lograrlo). 
 
