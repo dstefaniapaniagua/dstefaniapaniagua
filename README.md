@@ -23,7 +23,7 @@ const developer = {
 	knowledge: ['Javascript', 'HTML', 'CSS','ReactJS'],
 	tools: ['ReactJS', 'MaterialUI','Bootstrap', 'Photoshop'],
 	currentlyLearning: ['ReactJS','Firebase', 'SASS'],
-	futureLearning: ['React Redux', 'NodeJs','AngularJS', 'NodeJS'], 
+	futureLearning: ['React Redux', 'NodeJs','AngularJS'], 
 };
  ```
 
